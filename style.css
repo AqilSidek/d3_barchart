@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+svg {
+    background-color: lightgoldenrodyellow;
+}
+
+.bar:hover {
+    fill: green
+}
+
+.bar {
+    border-color: lightpink;
+    fill: lightsalmon
+}
